@@ -1,4 +1,4 @@
-## 1.0.8
+## 1.0.9
 
 The device_details_plugin is a Flutter plugin designed to facilitate the retrieval of various device-related information within Flutter applications. It serves as a convenient tool for developers seeking to access and utilize device-specific details for customization, optimization, or functionality within their apps.
 

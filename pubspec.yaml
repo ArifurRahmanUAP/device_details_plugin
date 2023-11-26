@@ -1,6 +1,6 @@
 name: device_details_plugin
 description: A new Flutter plugin to get platform specific device information.
-version: 1.0.8
+version: 1.0.9
 homepage: https://github.com/ArifurRahmanUAP/device_details_plugin
 
 environment:
@@ -29,7 +29,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.nadiaferdoush.device_details_plugin
+        package: com.arif.device_details_plugin
         pluginClass: DeviceDetailsPlugin
       ios:
         pluginClass: DeviceDetailsPlugin

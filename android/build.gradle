@@ -1,4 +1,4 @@
-group 'com.nadiaferdoush.device_details_plugin'
+group 'com.arif.device_details_plugin'
 version '1.0'
 
 buildscript {

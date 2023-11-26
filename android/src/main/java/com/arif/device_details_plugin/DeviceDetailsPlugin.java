@@ -1,4 +1,4 @@
-package com.nadiaferdoush.device_details_plugin;
+package com.arif.device_details_plugin;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
